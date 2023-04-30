@@ -1,7 +1,5 @@
 import shutil
-
 import streamlit as st
-import matplotlib.pyplot as plt
 import tensorflow as tf
 import os
 from PIL import Image
